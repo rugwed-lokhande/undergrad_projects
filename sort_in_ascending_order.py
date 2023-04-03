@@ -1,5 +1,5 @@
 #enter your file name in place of input
-
+#input files contain numbers seperated by lines
 f=open("input",'r')
 data=f.read()
 data=data.split("\n")
